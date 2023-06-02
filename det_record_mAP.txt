@@ -1,0 +1,95 @@
+COCO results:
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.161
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.294
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.156
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.075
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.167
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.230
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.198
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.321
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.335
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.147
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.354
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.479
+
+mAP(IoU=0.5) for each category:
+ person         : 0.6472491843064936
+ bicycle        : 0.23859556131363863
+ car            : 0.42147654896055853
+ motorcycle     : 0.41722646237090527
+ airplane       : 0.5521035084797745
+ bus            : 0.5106839880434979
+ train          : 0.5587619198359197
+ truck          : 0.2491948919055819
+ boat           : 0.17633891701694357
+ traffic light  : 0.2558673670870871
+ fire hydrant   : 0.6130292001441467
+ stop sign      : 0.5429009532913722
+ parking meter  : 0.2936925672149602
+ bench          : 0.1540982999816686
+ bird           : 0.2146257399158597
+ cat            : 0.5090106663427075
+ dog            : 0.359458406596402
+ horse          : 0.4665584941351851
+ sheep          : 0.38548425895061195
+ cow            : 0.44936781405952014
+ elephant       : 0.4768284742295679
+ bear           : 0.5190331919986595
+ zebra          : 0.7161312001841388
+ giraffe        : 0.7022887365574626
+ backpack       : 0.08347759273780672
+ umbrella       : 0.25745940137585493
+ handbag        : 0.054645633546204574
+ tie            : 0.3053836008595135
+ suitcase       : 0.11229117396092667
+ frisbee        : 0.4377480409686433
+ skis           : 0.20457385008023604
+ snowboard      : 0.13772014489319326
+ sports ball    : 0.413053494334377
+ kite           : 0.3557239081476263
+ baseball bat   : 0.16674990216458913
+ baseball glove : 0.2780129879202902
+ skateboard     : 0.3448223988848476
+ surfboard      : 0.2641602755311108
+ tennis racket  : 0.3868547020671628
+ bottle         : 0.21321343142045399
+ wine glass     : 0.1515165014405146
+ cup            : 0.24241711318960396
+ fork           : 0.07021883903923204
+ knife          : 0.019484773291687525
+ spoon          : 0.03239114675889864
+ bowl           : 0.26984413090901954
+ banana         : 0.11215694474971456
+ apple          : 0.07225338489568107
+ sandwich       : 0.2759625543321935
+ orange         : 0.21442350234634822
+ broccoli       : 0.2552561924376373
+ carrot         : 0.1196365288254196
+ hot dog        : 0.16271422405330396
+ pizza          : 0.4353134250000176
+ donut          : 0.20841635795248017
+ cake           : 0.18916122071147148
+ chair          : 0.15179375031199555
+ couch          : 0.3163822617391216
+ potted plant   : 0.15525225820054347
+ bed            : 0.3500117536430644
+ dining table   : 0.2557029925503979
+ toilet         : 0.5345894985075873
+ tv             : 0.5017974401827944
+ laptop         : 0.36150017563506404
+ mouse          : 0.38785012606520114
+ remote         : 0.09782457891937542
+ keyboard       : 0.3860870764785104
+ cell phone     : 0.21909080636751466
+ microwave      : 0.43870800792782577
+ oven           : 0.22800630000603028
+ toaster        : 0.01485148514851485
+ sink           : 0.2901867105849696
+ refrigerator   : 0.3343669065467921
+ book           : 0.1388639716913117
+ clock          : 0.487263088291315
+ vase           : 0.18923999480921888
+ scissors       : 0.0784447958473659
+ teddy bear     : 0.2786576451789387
+ hair drier     : 0.0
+ toothbrush     : 0.0710148882843616
